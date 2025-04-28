@@ -42,17 +42,17 @@ Atualmente, a AmazonFish opera por meio de um e-commerce robusto, oferecendo des
 <b> Subdividido em 12 tópicos separados por pastas para melhor entendimento e leitura do projeto </b>
 
 1. [Resource Group no Azure](/projeto01_AmazonFish/01-Resource_Groups/Resource_group.md)
-2. [Machine Learning](/projeto01_AmazonFish\02-Machine_Learning\Machine_Learning.md)
-3. [Workspaces no Azure](/projeto01_AmazonFish\03-Workspaces\Workspaces.md)
-4. [Notebooks no Azure Machine Learning](/projeto01_AmazonFish\04-Notebooks\Notebooks.md)
-5. [Computação no Azure](/projeto01_AmazonFish\05-Computacao_Azure\ComputacaoAzure.md)
-6. [Computação para Notebooks no Azure Machine Learning](/projeto01_AmazonFish\06-Computacao_Notebooks\ComputacaoNotebooks.md)
-7. [Computação para Clusters no Azure Machine Learning](/projeto01_AmazonFish\07-Computacao_Clusters\ComputacaoClusters.md)
-8. [Dados](/projeto01_AmazonFish\08-Dados\Dados.md)
-9. [Auto Machine Learning (autoML) no Azure Machine Learning](/projeto01_AmazonFish\09-AutoML\AutoML.md)
-10. [Designer no Azure Machine Learning](/projeto01_AmazonFish\10-Designer\Designer.md)
-11. [Jobs no Azure Machine Learning](/projeto01_AmazonFish\11-Jobs\Jobs.md)
-12. [Pipeline de automação no Azure Machine Learning](/projeto01_AmazonFish\12-Pipeline_Automacao\Pipeline.md)
+2. [Machine Learning](/projeto01_AmazonFish/02-Machine_Learning/Machine_Learning.md)
+3. [Workspaces no Azure](/projeto01_AmazonFish/03-Workspaces/Workspaces.md)
+4. [Notebooks no Azure Machine Learning](/projeto01_AmazonFish/04-Notebooks/Notebooks.md)
+5. [Computação no Azure](/projeto01_AmazonFish/05-Computacao_Azure/ComputacaoAzure.md)
+6. [Computação para Notebooks no Azure Machine Learning](/projeto01_AmazonFish/06-Computacao_Notebooks/ComputacaoNotebooks.md)
+7. [Computação para Clusters no Azure Machine Learning](/projeto01_AmazonFish/07-Computacao_Clusters/ComputacaoClusters.md)
+8. [Dados](/projeto01_AmazonFish/08-Dados/Dados.md)
+9. [Auto Machine Learning (autoML) no Azure Machine Learning](/projeto01_AmazonFish/09-AutoML/AutoML.md)
+10. [Designer no Azure Machine Learning](/projeto01_AmazonFish/10-Designer/Designer.md)
+11. [Jobs no Azure Machine Learning](/projeto01_AmazonFish/11-Jobs/Jobs.md)
+12. [Pipeline de automação no Azure Machine Learning](/projeto01_AmazonFish/12-Pipeline_Automacao/Pipeline.md)
 
 ## 📂 Pastas <a name="pastas"></a>
 
