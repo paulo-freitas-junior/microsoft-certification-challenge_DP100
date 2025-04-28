@@ -1,0 +1,81 @@
+Data,Produto,Categoria,Preço Unitário,Quantidade Vendida,Condição Climática,Temperatura (°C),Evento de Pesca,Região de Venda,Tempo de Navegação
+2025-04-01,Vara Premium 2.0,Vara,189.90,15,Sol,27,Não,Sudeste,120
+2025-04-02,Molinete PowerFish 3000,Molinete,259.90,8,Nublado,24,Sim,Sul,180
+2025-04-03,Isca Artificial Torpedo,Isca,29.90,30,Chuva,21,Não,Nordeste,90
+2025-04-04,Sonar ProScan X,Sonar,879.90,3,Sol,28,Sim,Norte,300
+2025-04-05,Vara UltraCast,Vara,219.90,12,Sol,30,Não,Centro-Oeste,150
+2025-04-06,Isca Vibratória Shark,Isca,34.90,25,Chuva,22,Não,Sudeste,100
+2025-04-07,Molinete PowerFish 3000,Molinete,259.90,8,Nublado,24,Sim,Sul,180
+2025-04-08,Isca Artificial Torpedo,Isca,29.90,30,Chuva,21,Não,Nordeste,90
+2025-04-09,Sonar ProScan X,Sonar,879.90,3,Sol,28,Sim,Norte,300
+2025-04-10,Vara UltraCast,Vara,219.90,12,Sol,30,Não,Centro-Oeste,150
+2025-04-11,Molinete StormX,Molinete,199.90,10,Nublado,23,Não,Sudeste,200
+2025-04-12,Isca Vibratória Shark,Isca,34.90,25,Sol,29,Sim,Nordeste,110
+2025-04-13,Vara CarbonMaster,Vara,289.90,18,Chuva,20,Não,Sul,170
+2025-04-14,Sonar DeepScan Elite,Sonar,929.90,5,Nublado,26,Sim,Norte,320
+2025-04-15,Molinete ThunderMax,Molinete,229.90,7,Sol,31,Não,Centro-Oeste,190
+2025-04-16, Vara CarbonMaster, Vara, 289.90, 10, Nublado, 25, Não, Sudeste, 160
+2025-04-17, Molinete ThunderMax, Molinete, 229.90, 6, Sol, 29, Sim, Sul, 185
+2025-04-18, Isca Artificial Torpedo, Isca, 29.90, 35, Chuva, 20, Não, Nordeste, 95
+2025-04-19, Sonar DeepScan Elite, Sonar, 929.90, 4, Sol, 27, Sim, Norte, 310
+2025-04-20, Vara UltraCast, Vara, 219.90, 14, Sol, 31, Não, Centro-Oeste, 155
+2025-04-21, Molinete PowerFish 3000, Molinete, 259.90, 9, Nublado, 24, Sim, Sul, 175
+2025-04-22, Isca Vibratória Shark, Isca, 34.90, 28, Chuva, 21, Não, Nordeste, 105
+2025-04-23, Sonar ProScan X, Sonar, 879.90, 2, Sol, 28, Não, Norte, 290
+2025-04-24, Vara Premium 2.0, Vara, 189.90, 16, Nublado, 26, Sim, Sudeste, 125
+2025-04-25, Molinete StormX, Molinete, 199.90, 11, Chuva, 22, Não, Centro-Oeste, 195
+2025-04-26, Isca Artificial Torpedo, Isca, 29.90, 40, Sol, 30, Sim, Nordeste, 85
+2025-04-27, Sonar DeepScan Elite, Sonar, 929.90, 3, Nublado, 25, Não, Norte, 315
+2025-04-28, Vara CarbonMaster, Vara, 289.90, 12, Sol, 32, Sim, Sul, 165
+2025-04-29, Molinete ThunderMax, Molinete, 229.90, 8, Chuva, 23, Não, Sudeste, 200
+2025-04-30, Isca Vibratória Shark, Isca, 34.90, 22, Sol, 27, Sim, Nordeste, 115
+2025-04-04, Vara Premium 2.0,Isca,308.75,45,Chuva,31,Sim, Sul,132
+2025-04-27,Sonar ProScan X, Isca,781.01,25, Nublado,10,Sim, Nordeste,110
+2025-04-10,Vara CarbonMaster,Isca,583.82,24, Chuva,13,Não, Sudeste,62
+2025-04-02,Vara Premium 2.0, Molinete,174.05,4, Nublado,17,Não, Centro-Oeste,311
+2025-04-04,Sonar DeepScan Elite, Sonar,946.91,35,Sol,19,Não,Sudeste,227
+2025-04-21, Molinete PowerFish 3000, Isca,240.74,20,Sol,35,Não,Nordeste,224
+2025-04-22,Isca Vibratória Shark,Isca,621.8,14, Nublado,34,Não,Sul,214
+2025-04-27, Molinete StormX,Sonar,566.36,5, Chuva,21,Não,Centro-Oeste,266
+2025-04-20, Vara UltraCast,Molinete,396.58,27,Nublado,28,Não, Sudeste,103
+2025-04-04,Isca Artificial Torpedo, Molinete,314.14,41,Sol,33,Não,Nordeste,143
+2025-04-25,Molinete StormX,Molinete,227.96,40, Sol,25,Sim,Centro-Oeste,70
+2025-04-11, Molinete ThunderMax,Vara,487.21,43,Chuva,35,Não,Centro-Oeste,264
+2025-04-12,Vara Premium 2.0, Sonar,346.6,22, Sol,10,Sim, Nordeste,270
+2025-04-28, Vara Premium 2.0,Molinete,132.06,21, Nublado,14,Sim,Sudeste,123
+2025-04-27, Vara UltraCast,Vara,255.55,37, Nublado,34,Não,Centro-Oeste,335
+2025-04-08,Vara Premium 2.0,Sonar,292.49,13,Sol,28,Sim, Sul,107
+2025-04-05, Sonar DeepScan Elite, Isca,95.6,38,Chuva,30,Sim, Sul,210
+2025-04-13,Vara Premium 2.0, Molinete,668.65,32, Nublado,28,Sim, Norte,272
+2025-04-23,Isca Artificial Torpedo,Sonar,116.65,6,Sol,24,Sim,Nordeste,107
+2025-04-06,Molinete PowerFish 3000,Sonar,466.07,31, Sol,35,Sim,Sudeste,175
+2025-04-15, Isca Artificial Torpedo, Isca,737.15,36, Sol,19,Sim, Nordeste,195
+2025-04-08,Molinete StormX,Isca,844.68,23,Nublado,17,Sim, Nordeste,186
+2025-04-28,Isca Artificial Torpedo,Sonar,247.0,15,Chuva,15,Não, Sul,337
+2025-04-04,Molinete PowerFish 3000,Molinete,43.11,35, Chuva,31,Não, Norte,65
+2025-04-20, Molinete ThunderMax,Molinete,402.2,32,Nublado,32,Sim,Norte,312
+2025-04-03, Molinete ThunderMax, Sonar,386.42,13, Chuva,26,Não, Sul,225
+2025-04-25, Molinete StormX,Isca,415.68,23,Nublado,30,Não, Norte,76
+2025-04-11, Isca Artificial Torpedo,Sonar,597.59,12, Chuva,22,Não, Centro-Oeste,258
+2025-04-10,Molinete PowerFish 3000, Vara,593.55,19,Sol,11,Sim, Norte,236
+2025-04-26, Isca Artificial Torpedo,Isca,760.49,43,Nublado,32,Sim, Sul,122
+2025-04-27, Molinete ThunderMax, Vara,568.55,26,Chuva,17,Sim, Norte,88
+2025-04-05, Molinete StormX,Vara,368.77,35,Sol,17,Não,Nordeste,192
+2025-04-02,Sonar DeepScan Elite, Vara,693.1,31,Nublado,31,Não,Norte,190
+2025-04-04,Vara Premium 2.0,Vara,306.52,10,Sol,24,Sim, Sul,177
+2025-04-16,Molinete ThunderMax,Molinete,780.86,43, Nublado,19,Sim, Norte,252
+2025-04-03,Molinete PowerFish 3000,Sonar,816.62,29, Chuva,13,Sim,Norte,116
+2025-04-17,Isca Artificial Torpedo, Molinete,577.73,16,Chuva,28,Sim,Norte,262
+2025-04-24, Molinete PowerFish 3000,Molinete,530.85,27,Nublado,18,Sim,Sul,191
+2025-04-25, Isca Artificial Torpedo, Molinete,463.52,32, Chuva,27,Não, Sudeste,182
+2025-04-15, Isca Vibratória Shark, Sonar,588.24,37, Chuva,31,Não, Centro-Oeste,194
+2025-04-18,Sonar ProScan X,Isca,431.97,15, Sol,14,Sim, Nordeste,159
+2025-04-16, Vara CarbonMaster,Isca,33.48,28, Chuva,26,Não, Sul,339
+2025-04-24, Isca Artificial Torpedo,Molinete,739.42,15,Nublado,30,Não,Sul,93
+2025-04-19, Isca Artificial Torpedo, Vara,30.4,5,Sol,12,Não, Sudeste,320
+2025-04-02,Sonar ProScan X,Vara,325.46,43,Sol,26,Não, Norte,283
+2025-04-29,Vara Premium 2.0, Molinete,624.63,34,Sol,24,Sim,Sul,201
+2025-04-15,Sonar DeepScan Elite,Vara,535.65,32,Chuva,28,Sim,Centro-Oeste,172
+2025-04-05,Molinete PowerFish 3000,Vara,118.51,13,Sol,33,Não,Norte,183
+2025-04-11, Vara UltraCast,Isca,517.11,3,Chuva,10,Sim,Sudeste,323
+2025-04-24,Vara Premium 2.0, Molinete,595.04,8, Sol,33,Sim, Norte,305
