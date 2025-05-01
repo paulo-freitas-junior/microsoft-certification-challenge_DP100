@@ -29,7 +29,7 @@ Subdividido em 8 partes:
 ### Projetos Desenvolvidos
 
 - [Treinamento de Modelo de Machine Learning para Previsão de Vendas](/projeto01_AmazonFish/README.md)
-- Criação de um ChatBot baseado em conteúdos de arquivos PDF
+- [Criação de um ChatBot baseado em conteúdos de arquivos PDF](/projeto02_ChatBot/README.md)
 
 ---
 ### Adicionais
