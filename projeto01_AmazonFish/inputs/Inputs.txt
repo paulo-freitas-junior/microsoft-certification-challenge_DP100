@@ -1,6 +1,6 @@
-Inputs:
+Inputs de dados estão na pasta "inputs" dentro de cada pasta de Projeto.
 
-Temperaturas mais quentes favorecem a venda de equipamentos de pesca?
-Temperaturas mais frias desfavorecem?
 
-Outputs:
+
+
+
